@@ -1,0 +1,6 @@
+{
+  "name": "Moz We On",
+  "description": "Plataforma de streaming de música moçambicana inspirada no SoundCloud, com ritmos locais como Marrabenta, Pandza, Amapiano, Kizomba e Afro House, além de um curador de música com IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
